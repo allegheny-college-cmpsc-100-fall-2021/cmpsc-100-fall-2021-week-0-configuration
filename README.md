@@ -99,6 +99,12 @@ This assignment will be evaluated according to the following guidelines.
 * No `TODO` markers
 * `the_maltese_python.png` placed in `cage/` folder`
 
+
+### Overall `git` operations
+
+* At least `5` total commits
+  * You already have `3` because of GitHub Classroom -- you need to do at least `2` (more recommended!)
+
 ## Instructional materials
 
 ---
