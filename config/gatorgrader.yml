@@ -26,3 +26,5 @@ lab/writing/reflection.md:
     ConfirmFileExists
     MatchFileFragment --fragment "TODO" --count 0 --exact
     CountFileWords --count 200
+    
+CountCommits --count 5
